@@ -1,10 +1,9 @@
 <h1 align="center">Senior Developer</h1>
 
 <p align="center">
-
-  <img height="150" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/47122317-26c7-45b9-9e51-61a0dfe084f1" />
-  <img height="150" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/f9cbe583-ca01-4c04-bf67-8e76fd85eb0a" />
-  <img height="200" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/e46f3432-28f5-46f9-8cb8-386b442cb2ce" />
+  <img width="350" height="200" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/47122317-26c7-45b9-9e51-61a0dfe084f1" />
+  <img width="450" height="200" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/f1e338b7-f047-4762-a68b-f1529573b228" />
+  <img width="800" height="200" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/f9cbe583-ca01-4c04-bf67-8e76fd85eb0a" />
 </p>
 
 <p align="center">
