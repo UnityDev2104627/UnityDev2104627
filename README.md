@@ -42,13 +42,13 @@
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/3e5019ff-ad2a-4587-8cda-102fb105b424" alt="Unity" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/b0fad931-b303-4297-a506-2532e9933730" alt="Unreal Engine" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/c3725418-a99e-4d98-b3b3-76f402634ab1" alt="GoDot" />
-  <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/113eb046-0a5f-4c7d-abd6-053f28764af0" alt="Phaser" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/97179222-4c1c-4137-9175-6781df2d5c4a" alt="Decentraland" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/e1c42f27-5990-4286-abb5-134c66eb9695" alt="Ethereal Engine" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/1fe4aaeb-527c-4b28-a15e-4d1c5e97482c" alt="Spartial" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/8511f0e8-629a-49ad-91c6-e251cc39740e" alt="SteamVR" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/dd75d94f-ba3e-4958-a67a-958fd6b55c94" alt="ARCore" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/afdc1350-1676-49cb-888c-59e48756a151" alt="ARKit" />
+  <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/4f9230fe-e5fe-4b59-a31f-7d35579397d7" alt="Flutter" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/77f311d1-980c-4e05-bef0-c5bc837cc89c" alt="ThreeJS" />
   <img height="60" src="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="React" />
   <img height="60" src="https://camo.githubusercontent.com/59a85b448aad371c42861b800fd8d1442f1a454404c4c0def396af80b9e14313/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c61726176656c2d706c61696e2d776f72646d61726b2e737667" alt="Laravel" />
@@ -63,6 +63,10 @@
 
   <img height="40" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/6e53996e-8405-40df-9066-51838959e6ef" alt="Solidity" />
 
+  <img height="40" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/7bcd383f-f8ca-4854-99e1-014ca3a6bd44" alt="Swift" />
+
+  <img height="40" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/b39579cb-b336-45a1-9997-742aeeb198dc" alt="Dart" />
+
   <img height="40" src="https://camo.githubusercontent.com/d10e5aa8ba67f1eb109da4e98cd75adfa42df2e6019f8222cfa14c0088ac674d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667" alt="Python" />
   
   <img height="40" src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" />
@@ -72,12 +76,15 @@
 <h2 align="center">Platforms</h2>
 <p align="center">
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/d2043b70-24f6-47f8-99e2-48c0d1222ae1" alt="Desktop" />
-  <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/95bf579f-2638-4280-a7e7-893ca1a115bd" alt="Mobile" />
+  <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/0c9e26e3-469c-4569-a1b6-920a57e3ef90" alt="iOS" />
+  <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/40ef4cd9-c69c-4988-963e-f0e8d18dc209" alt="Android" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/dac5440c-cd36-4dae-81b6-8c38bf5ae18d" alt="Web" />
 </p>
 
-<h2 align="center">External Tools</h2>
+<h2 align="center">Addition</h2>
 <p align="center">
+  <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/2dd7ab2c-b710-4ce0-adc2-74f6661448e6" alt="XCode" />
+  <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/48ad7e13-cef0-4562-9dbc-6dedf7d4d72f" alt="Android Studio" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/e2e5e259-7541-41cf-a682-85e9536cc652" alt="Blender" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/0d15bb41-5540-4611-9f19-08074805dad8" alt="Photoshop" />
 </p>
