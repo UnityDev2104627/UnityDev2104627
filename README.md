@@ -75,7 +75,7 @@
 
 <h2 align="center">Platforms</h2>
 <p align="center">
-  <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/d2043b70-24f6-47f8-99e2-48c0d1222ae1" alt="Desktop" />
+  <img height="60" src="https://github.com/UnityDev2104627/UnityDev2104627/assets/141311802/d2043b70-24f6-47f8-99e2-48c0d1222ae1" alt="Desktop" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/0c9e26e3-469c-4569-a1b6-920a57e3ef90" alt="iOS" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/40ef4cd9-c69c-4988-963e-f0e8d18dc209" alt="Android" />
   <img height="60" src="https://github.com/BearMiscca/BearMiscca/assets/141311802/dac5440c-cd36-4dae-81b6-8c38bf5ae18d" alt="Web" />
@@ -94,7 +94,7 @@
   <h2 align="center">📊 Github Profile Activity</h2>
 
   <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bear Miscca's streak" src="https://streak-stats.demolab.com/?user=BearMiscca&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bear Miscca's streak" src="https://streak-stats.demolab.com/?user=UnityDev2104627&theme=monokai-metallian&hide_border=true"/>
   </p>
 
   <h2 align="center">💻 Github Repositories Stats</h3>
@@ -106,7 +106,7 @@
       
   <img src="https://github-profile-trophy.vercel.app/?username=IceDev528&column=8"/>
   
-  <img alt="Youssefouah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BearMiscca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <img alt="Youssefouah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=UnityDev2104627&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </p>
 
 </details>
