@@ -1,4 +1,4 @@
-<h1 align="center">Senior Developer</h1>
+<h1 align="center">Senior Developer Mustapha Barki Engineering Automation</h1>
 
 <p align="center">
   <img width="350" height="200" src="https://github.com/UnityDev2104627/UnityDev2104627/assets/141311802/47122317-26c7-45b9-9e51-61a0dfe084f1" />
@@ -97,7 +97,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bear Miscca's streak" src="https://streak-stats.demolab.com/?user=UnityDev2104627&theme=monokai-metallian&hide_border=true"/>
   </p>
 
-  <h2 align="center">💻 Github Repositories Stats</h3>
+  <h2 align="center">💻 Github     Repositories     Stats</h3>
 
   <p align="center">
     <img alt="Miscca's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=UnityDev2104627&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
